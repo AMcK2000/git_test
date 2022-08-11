@@ -1,0 +1,5 @@
+if I knew how to code yet then this would have a short program that printed hello world in it.
+Wait a minute.
+I know how to do that in python!
+
+print("Hello World!")
